@@ -9,10 +9,10 @@ export default async function AboutPage() {
     notFound();
   }
 
-  return (
-    <main>
+  return ( 
+    <main>   
       <h1>{page.title}</h1>
-
+      <h2>{page.title}</h2>
       <div
         dangerouslySetInnerHTML={{
           __html: page.body,
