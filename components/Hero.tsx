@@ -16,7 +16,7 @@ export default function Hero() {
             </p>
 
             <h1 className="text-5xl font-semibold leading-[1.05] tracking-tight sm:text-6xl lg:text-7xl">
-              Smarter technology
+              Smarter technologies
               <br />
               for your home.
             </h1>
